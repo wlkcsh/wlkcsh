@@ -1,4 +1,4 @@
-# Hi, I'm Atabek (Rakhmanov7) 👋
+# Hi, I'm Atabek 👋
 
 Frontend developer based in Uzbekistan, currently rebuilding **Edison**, an HR management system, from the ground up.
 
